@@ -145,6 +145,26 @@ body {
   
 }
 
+
+div-js, p-js {
+  margin: 0 auto;
+}
+
+p-js {
+  color: rgb(125, 125, 125);
+  font-size: 0.85rem;
+  text-align: center;
+  margin-bottom: 17px;
+}
+
+div-js {
+  width: 35%;
+  overflow: hidden;
+}
+
+
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
